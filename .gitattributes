@@ -1,2 +1,1 @@
-GoMarket[[:space:]]-[[:space:]]Report[[:space:]]1/*.pdf filter=lfs diff=lfs merge=lfs -text
-GoMarket[[:space:]]-[[:space:]]Report[[:space:]]2/*.pdf filter=lfs diff=lfs merge=lfs -text
+GoMarket/*.pdf filter=lfs diff=lfs merge=lfs -text
